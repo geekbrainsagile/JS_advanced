@@ -7,6 +7,26 @@
   {
     "id_product": 456,
     "product_name": "Мышка",
-    "price": 1000
+    "price": 300
+  },
+  {
+    "id_product": 9,
+    "product_name": "Монитор",
+    "price": 5600
+  },
+  {
+    "id_product": 14,
+    "product_name": "Клавиатура",
+    "price": 1200
+  },  
+  {
+    "id_product": 22,
+    "product_name": "SSD диск",
+    "price": 3200
+  },
+  {
+    "id_product": 456,
+    "product_name": "Колонки",
+    "price": 1300
   }
 ]
